@@ -118,10 +118,10 @@ POST /api/v1/createTodo
 
 ## Future Improvements
 
-* Add authentication using JWT
-* Integrate frontend application
-* Deploy to a cloud platform
-* Improve validation and error handling
+* Add authentication using JWT.
+* Integrate frontend application.
+* Deploy to a cloud platform.
+* Improve validation and error handling.
 
 ---
 
